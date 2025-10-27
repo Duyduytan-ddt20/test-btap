@@ -1,1 +1,2 @@
+from Tan2
 from Tan1
